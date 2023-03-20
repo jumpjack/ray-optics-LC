@@ -1,3 +1,5 @@
+Interactive gallery: [link](https://jumpjack.github.io/ray-optics-LC/gallery/)
+
 ![Example figure](https://raw.githubusercontent.com/ricktu288/ray-optics/master/img/1.svg)
 
 # Ray Optics Simulation
